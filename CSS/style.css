@@ -1,5 +1,7 @@
+  
+ 
  *{
-    box-sizing: border-box;
+     
     margin: 0;
     padding: 0;
  }
@@ -15,7 +17,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+     
  }
  
  nav li{
@@ -39,13 +41,139 @@
     background: blue;
     border-radius: 6px;
     border: none;
+    margin-right: 50px;
  }
 
- span{
+ .YouCode{
     font-size: 30px;
     font-weight: bold;
     margin-left:70px;
  }
 
 
+ .pr-section{
+    background: #08121E;
+    margin: 0;
+ }
+ .total{
+    display: flex;
+    justify-content: space-between;
+ }
+.compus, .top{
+    padding-top: 50px;
+    margin-left: 80px;
+    color: aliceblue;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 100px;
+    display: inline-block;
+ }
+.top{
+    margin-top: 8px;
+}
+ 
+.top{
+    color: #034BFF;
+    line-height: 0px;
+    
+}
+.life{
+    color: #C7F64A;
+    font-size: 100px;
+    font-weight: 900;
+ }
+.img{
+    margin: 0;
+    width: 704px;
+  } 
+.img-1{
+    height: 560px;
+}
+.span-1, .span-2{
+    color: aliceblue;
+}
+
+ 
+.span-2{
+    font-weight: 50;
+}
+
+.btn{
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.btn-2{
+    background-color: transparent;
+    border:solid #8EABFF;
+    padding: 15px;
+    margin-left: 15px;
+}
+
+.a, .b, .c, .d{
+    display: inline-block;
+    background-color:   rgb(190, 225, 255);;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top:2px ;
+    margin-left: -5px;
+    margin-top: 30px; 
+}
+.b{
+  background-color: #D7C3B6;
+}
+
+.d{
+  background-color: #D7C3B6;
+}
+
+.ma{
+    margin-left: 70px;
+     white-space: nowrap;
+}
+
+.span-3{
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: 100;
+    margin-left: 27px;
+    width: 40px;
+}
+ 
+.space{
+    margin-left: 40px;
+}
+.div-1{
+      display: flex;
+    align-items: center;
+}
+.big-div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.num{
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 400;
+}
+.icon-1{
+    display: inline-block;
+   font-size: 40px;
+   margin-top: 19px;
+   color: #034BFF;
+}
+
+.line{
+    font-size: 30px;
+    margin-right: 100px;
+}
+.text{
+    margin-top: 40px;
+    margin-left: -69px;
+}
  
