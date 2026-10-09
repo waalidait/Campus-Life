@@ -1,0 +1,97 @@
+.icon-2{
+    width: 22px;
+     display: flex;
+    justify-content: center;
+    align-self: center;  
+    padding: 15px;
+    border-radius: 50%;
+    background-color: rgb(38, 10, 220);
+}
+ .icon-s{
+    color: aliceblue;
+    font-size: 20px;
+ }
+.icon-3{
+    width: 22px;
+    display: flex;
+    padding: 15px;
+    padding-top:23px ;
+    padding-right: 10px;  
+    border-radius: 50%;
+    background-color: rgb(38, 10, 220);
+}
+
+.icon-4{
+    width: 22px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 15px;  
+    border-radius: 50%;
+    background-color: rgb(38, 10, 220);
+}
+.icon-5{
+     width: 22px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 15px;  
+    border-radius: 50%;
+    background-color: rgb(38, 10, 220);
+}
+.icon-6{
+      width: 22px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 15px;  
+    border-radius: 50%;
+    background-color: rgb(38, 10, 220);
+}
+.icon-7{
+     width: 22px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 15px;  
+    border-radius: 50%;
+    background-color: rgb(38, 10, 220);
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.number{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+}
+.point{
+    display: flex;
+     
+}
+
+.section-4{
+    margin-top: 20px;
+    background: #000;
+}
+ 
+
+.first-text{
+    font-size: 45px;
+    color: aliceblue;
+      
+}
+.all-text{
+    color: aliceblue;
+    margin-left: 60px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+}
+
+.text-icon{
+    display: flex;
+    justify-content: space-around;
+    color: #f0eaea;
+    padding: 20px;
+}
